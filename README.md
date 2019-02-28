@@ -10,5 +10,5 @@ Depth-first, breadth-first, uniform cost, and A* search algorithms. These algori
 Classic Pacman is modeled as both an adversarial and a stochastic search problem. Students implement multiagent minimax and expectimax algorithms, as well as designing evaluation functions.
 
 
-Ghostbusters 
+# Ghostbusters 
 Exact inference using the forward algorithm and approximate inference via particle filters.
